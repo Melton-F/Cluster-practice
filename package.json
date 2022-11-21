@@ -1,0 +1,18 @@
+{
+  "name": "cluster-practice",
+  "version": "1.0.0",
+  "description": "cluster practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "cluster"
+  ],
+  "author": "Melton",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
